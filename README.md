@@ -11,7 +11,7 @@
 ### **Windows Installation**
 
 #### **Step 1: Download Python**
-1. Go to [python.org](https://github.com/mdarif76769/PhoneSploit Plus)
+1. Go to [python.org](https://github.com/mdarif76769/PhoneSploit_Plus)
 2. Download Python 3.8+ (Latest version)
 3. Run installer
 4. ✅ Check "Add Python to PATH"
@@ -20,7 +20,7 @@
 #### **Step 2: Install ADB (Most Important)**
 ```
 Method 1: Download SDK Tools
-- Go to https://github.com/mdarif76769/PhoneSploit Plus
+- Go to https://github.com/mdarif76769/PhoneSploit_Plus
 - Download platform-tools-latest-windows.zip
 - Extract to C:\platform-tools
 - Add to PATH:
@@ -56,11 +56,18 @@ scrcpy --version
 nmap --version
 git --version
 ```
-
+### Screeneshot
+1
+2
+3
 ---
 
 ### **macOS Installation**
- git clone https://github.com/mdarif76769/PhoneSploit Plus
+ 
+ git clone 
+ 
+ https://github.com/mdarif76769/PhoneSploit_Plus
+ 
 #### **Step 1: Install Homebrew**
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -164,8 +171,8 @@ termux-setup-storage
 
 #### **Step 3: Create Directory**
 ```bash
-mkdir -p ~/PhoneSploit
-cd ~/PhoneSploit
+mkdir -p ~/PhoneSploit_plus
+cd ~/PhoneSploit_plus
 ```
 
 #### **Step 4: Download Script**
@@ -219,7 +226,7 @@ which nmap
 
 ## 📊 Driver Status Check at Startup
 
-When you run PhoneSploit Plus, it automatically shows:
+When you run PhoneSploit_Plus, it automatically shows:
 
 ```
 ======================================================================
