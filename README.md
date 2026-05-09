@@ -57,10 +57,9 @@ nmap --version
 git --version
 ```
 ### Screeneshot
-1
-2
-3
----
+1[Screenshot/Screenshot_2026-05-09-13-57-08-031_com.termux.jpg]
+2[Screenshot/Screenshot_2026-05-09-13-57-44-584_com.termux.jpg]
+3[Screenshot/Screenshot_2026-05-09-13-58-45-989_com.termux.jpg]
 
 ### **macOS Installation**
  
